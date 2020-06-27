@@ -48,5 +48,13 @@ body{
 		padding: 4px;
 		border-radius: 5px;
 		font-size: 30px;
-	
 }
+
+#activites-section .fas{
+		color: blue;
+		background:#fff ;
+		padding: 4px;
+		border-radius: 5px;
+		font-size: 30px;
+}
+
